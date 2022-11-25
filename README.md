@@ -1,5 +1,6 @@
-# dio-live-athena
-Repositório para a live do dia 01/10/2021 sobre o Amazon Athena
+# Explorando dados com serviços AWS
+
+Projeto feito como parte do bootcamp DIO Ciência de Dados Unimed BH
 
 ### Serviços utilizados nessa atividade prática
  - Amazon S3
@@ -50,3 +51,4 @@ Repositório para a live do dia 01/10/2021 sobre o Amazon Athena
 ### Eliminar recursos
  - Exluir os elementos criados
 
+Para ver os demais projetos deste bootcamp clique [aqui](https://github.com/VagnerF/BOOTCAMP-UNIMED-BH-CIENCIA-DE-DADOS)
